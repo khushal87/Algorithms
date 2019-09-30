@@ -1,2 +1,2 @@
 # Algorithms Project
-Common Algorithms and data structures for hacktoberfest 2019.
+Common Algorithms and data structures for Hacktoberfest 2019.
